@@ -37,7 +37,7 @@ Database: PostgreSQL
 📦 Project Setup
 
 1. Clone the repository
-git clone https://github.com/aakashkarunanithi/healthcare-doc-processing
+git clone https://github.com/jegan-R1617/Healthcare_document_processing
 cd healthcare-doc-processing
 
 2. Install dependencies
